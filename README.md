@@ -1,6 +1,8 @@
+**🇫🇷 [Français](README.md)** · **🇬🇧 [English](README.en.md)** · **🇷🇺 [Русский](README.ru.md)**
+
 # 📖 Coran — Lisez et écoutez simplement
 
-Application Android **gratuite** pour lire et écouter le Coran : texte arabe (Classique ou Uthmani), translittération, traductions française, anglaise et russe, et récitations audio synchronisées verset par verset.
+Application Android **gratuite** pour lire et écouter le Coran : texte arabe (Classique ou Uthmani), translittération, traductions française, anglaise et russe, et récitations audio synchronisées verset par verset. L'application s'affiche automatiquement dans la langue de votre téléphone (français, anglais ou russe).
 
 ## ⬇️ Télécharger
 
@@ -24,5 +26,6 @@ Application Android **gratuite** pour lire et écouter le Coran : texte arabe (C
 
 | | | |
 |---|---|---|
-| ![Accueil](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-1.png) | ![Lecture](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-2.png) | ![Audio](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-3.png) |
-| ![Dossiers](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-4.png) | ![Paramètres](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-5.png) | ![Thèmes](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-6.png) |
+| ![](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-1.png) | ![](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-2.png) | ![](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-3.png) |
+| ![](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-4.png) | ![](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-5.png) | ![](https://github.com/rouslan077/coran-android/releases/download/v0.2.2/screenshot-6.png) |
+
